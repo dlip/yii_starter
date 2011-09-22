@@ -1,0 +1,3 @@
+[submodule "yii"]
+	path = yii
+	url = http://github.com/Stamm/yii.git
